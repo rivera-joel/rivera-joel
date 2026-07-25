@@ -14,8 +14,43 @@
   />
 </p>
 
+<h2> Top Projects</h2>
 
+<table>
+  <tr>
+    <td align="center">
 
+<h3>
+  Business Intelligence Solution: ETL, Analytics and Forecasting
+</h3>
+
+<img
+  src="./dashboard_photo_front.png"
+  alt="Business Intelligence dashboard project"
+  width="70%"
+/>
+<br><br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />&nbsp;
+  <img src="https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power Query" />&nbsp;
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="DAX" />
+  <br><br>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />&nbsp;
+  <img src="https://img.shields.io/badge/R_Markdown-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Markdown" />&nbsp;
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+</p>
+
+<br><br>
+
+<p>
+  End-to-end Business Intelligence solution integrating operational and
+  external data to analyse sales, logistics, product availability and
+  business performance through interactive dashboards.
+</p>
+
+    </td>
+  </tr>
+</table>
 
 
 
@@ -55,57 +90,8 @@
 
 ---
 
-## 🚀 Featured projects
-
-### 📊 End-to-End Business Intelligence Solution
-
-Business Intelligence project developed to analyse sales, deliveries, out-of-stock incidents and retail outlet performance across several operational datasets.
-
-**Key features:**
-
-- Analysis of approximately four million records
-- Data preparation and transformation
-- Exploratory Data Analysis using R
-- Interactive Power BI dashboards
-- Geographical and operational analysis
-- Retail outlet segmentation using clustering
-- Sales forecasting
-- Business recommendations
-
-**Technologies:** Power BI · Power Query · DAX · R · Excel · Data Modelling
-
-[View project repository](INSERT-TFM-REPOSITORY-LINK)
-
----
-
-### 🐍 Python Data Analysis Project
-
-Data cleaning, exploratory analysis, visualisation and predictive modelling using Python.
-
-**Technologies:** Python · Pandas · NumPy · Matplotlib · Scikit-learn
-
-[View project repository](INSERT-PYTHON-REPOSITORY-LINK)
-
----
-
-### 🗄️ SQL Business Analysis Project
-
-Business analysis project using SQL queries, joins, aggregations, subqueries and common table expressions.
-
-**Technologies:** SQL · Data Cleaning · Business Analysis
-
-[View project repository](INSERT-SQL-REPOSITORY-LINK)
-
----
-
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joel_Rivera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-rivera-garmendia/)
 
 ---
-
-## 📊 GitHub activity
-
-![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rivera-joel&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rivera-joel&layout=compact&hide_border=true)
