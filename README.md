@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  BI & Data Analyst
+  Business Intelligence & Data Analyst
 </h3>
 
 <p align="center">
@@ -13,6 +13,14 @@
     width="100%"
   />
 </p>
+
+
+
+
+
+
+
+
 
 ##  About me
 
