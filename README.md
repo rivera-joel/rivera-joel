@@ -6,6 +6,14 @@
   BI & Data Analyst
 </h3>
 
+<p align="center">
+  <img
+    src="./1775295615916.jpeg"
+    alt="Joel Rivera - Business Intelligence and Data Analyst"
+    width="100%"
+  />
+</p>
+
 ##  About me
 
 - 📊 Business Intelligence and Data Analysis professional based in Ireland
