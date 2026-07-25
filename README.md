@@ -60,12 +60,12 @@
 ##  About me
 
 - 📊 Business Intelligence and Data Analysis professional based in Ireland
+- 🍎 Apple 
 - 🎓 Master's in Business Intelligence and Data Analysis
-- 💼 Experience in operations, supply chain and developer support environments
-- 🔍 Interested in Data Analyst, BI Analyst and Business Analyst opportunities
-- 🌍 Spanish native speaker with professional English and Basque
+- 📚 Bachelor's degree in Business Administration and Management, Finance
+- 🌍 Languages: Spanish, English and Basque
 - 📈 Focused on transforming complex datasets into actionable business insights
-
+- 🔍 Interested in Data Analyst, BI Analyst and Business Analyst opportunities
 ---
 
 ##  Tools and technologies
