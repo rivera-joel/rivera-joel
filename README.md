@@ -14,7 +14,7 @@
   />
 </p>
 
-<h2> Top Project</h2>
+<h2> Top Projects</h2>
 
 <table>
   <tr>
