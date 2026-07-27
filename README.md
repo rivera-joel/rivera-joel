@@ -8,7 +8,7 @@
 
 <p align="center">
   <img
-    src="./1775295615916.jpeg"
+    src="./images/1775295615916.jpeg"
     alt="Joel Rivera - Business Intelligence and Data Analyst"
     width="100%"
   />
@@ -27,7 +27,7 @@
 <p align="center">
   <a href="https://github.com/rivera-joel/business-intelligence-project">
     <img
-      src="./dashboard_photo_front.png"
+      src="./images/dashboard_photo_front.png"
       alt="Business Intelligence dashboard project"
       width="70%"
     />
