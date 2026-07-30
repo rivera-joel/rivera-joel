@@ -8,7 +8,8 @@
 
 <p align="center">
   📫 Reach me at
-  <a href="mailto:tu-correo@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=joelriveragar@gmail.com"
+     target="_blank">
     <strong>joelriveragar@gmail.com</strong>
   </a>
 </p>
