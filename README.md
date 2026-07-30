@@ -27,7 +27,7 @@
 <p align="center">
   <a href="https://github.com/rivera-joel/business-intelligence-project">
     <img
-      src="./images/dashboard_photo_front.png"
+      src="./images/Project-1-image.png"
       alt="Business Intelligence dashboard project"
       width="70%"
     />
