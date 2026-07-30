@@ -7,6 +7,13 @@
 </h3>
 
 <p align="center">
+  📫 Reach me at
+  <a href="mailto:tu-correo@gmail.com">
+    <strong>joelriveragar@gmail.com</strong>
+  </a>
+</p>
+
+<p align="center">
   <img
     src="./images/1775295615916.jpeg"
     alt="Joel Rivera - Business Intelligence and Data Analyst"
