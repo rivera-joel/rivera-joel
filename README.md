@@ -8,8 +8,7 @@
 
 <p align="center">
   📫 Reach me at
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=joelriveragar@gmail.com"
-     target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=joelriveragar@gmail.com">
     <strong>joelriveragar@gmail.com</strong>
   </a>
 </p>
@@ -22,14 +21,18 @@
   />
 </p>
 
-<h2> Top Projects</h2>
+<h2>Top Projects</h2>
 
-<table>
+<table width="100%" border="1" cellpadding="18" cellspacing="0">
   <tr>
-    <td align="center">
+
+<!-- PROJECT 1 -->
+
+<td width="50%" valign="top" align="center">
 
 <h3>
-  Business Intelligence Solution: ETL, Analytics and Forecasting
+  Business Intelligence Solution:<br>
+  ETL, Analytics and Forecasting
 </h3>
 
 <p align="center">
@@ -37,18 +40,43 @@
     <img
       src="./images/Project-1-image.png"
       alt="Business Intelligence dashboard project"
-      width="70%"
+      width="100%"
     />
   </a>
 </p>
 
 <br>
 
-<p align="center"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />&nbsp;<img src="https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power Query" />&nbsp;<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="DAX" />&nbsp;<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />&nbsp;<img src="https://img.shields.io/badge/R_Markdown-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Markdown" />&nbsp;<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" /></p>
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
+    alt="Power BI"
+  />
+  <img
+    src="https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
+    alt="Power Query"
+  />
+  <img
+    src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
+    alt="DAX"
+  />
+  <img
+    src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"
+    alt="R"
+  />
+  <img
+    src="https://img.shields.io/badge/R_Markdown-276DC3?style=for-the-badge&logo=r&logoColor=white"
+    alt="R Markdown"
+  />
+  <img
+    src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"
+    alt="Excel"
+  />
+</p>
 
 <br>
 
-<p>
+<p align="left">
   End-to-end Business Intelligence solution integrating operational and
   external data to analyse sales, logistics, product availability and
   business performance through interactive dashboards.
@@ -64,7 +92,35 @@
 </p>
 
 </td>
-</tr>
+
+<!-- PROJECT 2 -->
+
+<td width="50%" valign="top" align="center">
+
+<h3>
+  Next Data Analytics Project
+</h3>
+
+<br><br><br><br><br>
+
+<h2>Coming Soon</h2>
+
+<p>
+  A new data analysis project will be featured here.
+</p>
+
+<br><br><br><br><br>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Project-In_Development-D0D7DE?style=for-the-badge&logo=github&logoColor=57606A"
+    alt="Project in development"
+  />
+</p>
+
+</td>
+
+  </tr>
 </table>
 
 ---
@@ -108,5 +164,7 @@
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joel_Rivera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-rivera-garmendia/)
+
+[![Email](https://img.shields.io/badge/Email-joelriveragar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=joelriveragar@gmail.com)
 
 ---
