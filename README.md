@@ -47,23 +47,26 @@ ETL, Analytics and Forecasting
   <img
     src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
     alt="Power BI"
-    height="28"
-  /><img
+  />
+  &nbsp;
+  <img
     src="https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
     alt="Power Query"
-    height="28"
-  /><img
+  />
+  &nbsp;
+  <img
     src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
     alt="DAX"
-    height="28"
-  /><img
+  />
+  &nbsp;
+  <img
     src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"
     alt="R"
-    height="28"
-  /><img
+  />
+  &nbsp;
+  <img
     src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"
     alt="Excel"
-    height="28"
   />
 </p>
 
@@ -107,19 +110,21 @@ Fraud Detection Analysis<br>
   <img
     src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"
     alt="SQL"
-    height="28"
-  /><img
+  />
+  &nbsp;
+  <img
     src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
     alt="Python"
-    height="28"
-  /><img
+  />
+  &nbsp;
+  <img
     src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"
     alt="Tableau"
-    height="28"
-  /><img
+  />
+  &nbsp;
+  <img
     src="https://img.shields.io/badge/Machine_Learning-5B21B6?style=for-the-badge"
     alt="Machine Learning"
-    height="28"
   />
 </p>
 
