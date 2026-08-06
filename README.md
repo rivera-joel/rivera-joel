@@ -95,33 +95,60 @@
 
 <!-- PROJECT 2 -->
 
-<td width="50%" valign="top" align="center">
+<td width="50%" align="center" valign="top">
 
-<h3>
-  Next Data Analytics Project
-</h3>
+  <h3>
+    Fraud Prevention Solution
+  </h3>
 
-<br><br><br><br><br>
+  <a href="https://github.com/rivera-joel/fraud-detection-analytics-project">
+    <img
+      src="./images/fraud-prevention-solution.png"
+      alt="Fraud Prevention Solution project"
+      width="100%"
+    />
+  </a>
 
-<h2>Coming Soon</h2>
+  <br><br>
 
-<p>
-  A new data analysis project will be featured here.
-</p>
+  <p align="center">
+    <img
+      src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"
+      alt="SQL"
+    />
+    &nbsp;
+    <img
+      src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+      alt="Python"
+    />
+    &nbsp;
+    <img
+      src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"
+      alt="Tableau"
+    />
+    &nbsp;
+    <img
+      src="https://img.shields.io/badge/Machine_Learning-5B21B6?style=for-the-badge"
+      alt="Machine Learning"
+    />
+  </p>
 
-<br><br><br><br><br>
+  <p>
+    End-to-end fraud analytics project using SQL, Python, Tableau and
+    machine learning to investigate suspicious transaction patterns,
+    develop risk indicators and support fraud-monitoring decisions.
+  </p>
 
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/Project-In_Development-D0D7DE?style=for-the-badge&logo=github&logoColor=57606A"
-    alt="Project in development"
-  />
-</p>
+  <p align="center">
+    <a href="https://github.com/rivera-joel/fraud-detection-analytics-project">
+      <img
+        src="https://img.shields.io/badge/PROJECT-IN_DEVELOPMENT-D1D5DB?style=for-the-badge&logo=github&logoColor=555555"
+        alt="View Fraud Prevention Solution project"
+      />
+    </a>
+  </p>
 
 </td>
-
-  </tr>
-</table>
 
 ---
 
