@@ -34,58 +34,55 @@ ETL, Analytics and Forecasting
 </h3>
 
 <a href="https://github.com/rivera-joel/business-intelligence-project">
-<img
-src="./images/Project-1-image.png"
-alt="Business Intelligence Solution project"
-width="100%"
-/>
+  <img
+    src="./images/Project-1-image.png"
+    alt="Business Intelligence Solution project"
+    width="100%"
+  />
 </a>
 
 <br><br>
 
 <p align="center">
-<img
-src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
-alt="Power BI"
-/>
-&nbsp;
-<img
-src="https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
-alt="Power Query"
-/>
-&nbsp;
-<img
-src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
-alt="DAX"
-/>
-&nbsp;
-<img
-src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"
-alt="R"
-/>
-
-<br><br>
-
-<img
-src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"
-alt="Excel"
-/>
+  <img
+    src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
+    alt="Power BI"
+    height="28"
+  /><img
+    src="https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
+    alt="Power Query"
+    height="28"
+  /><img
+    src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
+    alt="DAX"
+    height="28"
+  /><img
+    src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"
+    alt="R"
+    height="28"
+  /><img
+    src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"
+    alt="Excel"
+    height="28"
+  />
 </p>
 
 <p>
-End-to-end Business Intelligence solution integrating operational
-and external data to analyse sales, logistics, product availability
-and business performance through interactive dashboards.
+  End-to-end Business Intelligence solution integrating operational
+  and external data to analyse sales, logistics, product availability
+  and business performance through interactive dashboards.
 </p>
 
 <p align="center">
-<a href="https://github.com/rivera-joel/business-intelligence-project">
-<img
-src="https://img.shields.io/badge/VIEW_FULL_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"
-alt="View full Business Intelligence project"
-/>
-</a>
+  <a href="https://github.com/rivera-joel/business-intelligence-project">
+    <img
+      src="https://img.shields.io/badge/VIEW_FULL_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View full Business Intelligence project"
+    />
+  </a>
 </p>
+
+<br><br>
 
 </td>
 
@@ -97,53 +94,51 @@ Fraud Detection Analysis<br>
 </h3>
 
 <a href="https://github.com/rivera-joel/fraud-detection-analytics-project">
-<img
-src="./images/fraud-prevention-solution.png"
-alt="Fraud Detection Analysis project"
-width="100%"
-/>
+  <img
+    src="./images/fraud-prevention-solution.png"
+    alt="Fraud Detection Analysis project"
+    width="100%"
+  />
 </a>
 
 <br><br>
 
 <p align="center">
-<img
-src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"
-alt="SQL"
-/>
-&nbsp;
-<img
-src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
-alt="Python"
-/>
-&nbsp;
-<img
-src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"
-alt="Tableau"
-/>
-
-<br><br>
-
-<img
-src="https://img.shields.io/badge/Machine_Learning-5B21B6?style=for-the-badge"
-alt="Machine Learning"
-/>
+  <img
+    src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"
+    alt="SQL"
+    height="28"
+  /><img
+    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+    alt="Python"
+    height="28"
+  /><img
+    src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"
+    alt="Tableau"
+    height="28"
+  /><img
+    src="https://img.shields.io/badge/Machine_Learning-5B21B6?style=for-the-badge"
+    alt="Machine Learning"
+    height="28"
+  />
 </p>
 
 <p>
-End-to-end fraud analytics solution combining SQL investigations,
-Python risk modelling, machine learning and Tableau dashboards
-to detect suspicious activity and support fraud-monitoring decisions.
+  End-to-end fraud analytics solution combining SQL investigations,
+  Python risk modelling, machine learning and Tableau dashboards
+  to support fraud-monitoring decisions.
 </p>
 
 <p align="center">
-<a href="https://github.com/rivera-joel/fraud-detection-analytics-project">
-<img
-src="https://img.shields.io/badge/VIEW_FULL_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"
-alt="View full Fraud Detection Analysis project"
-/>
-</a>
+  <a href="https://github.com/rivera-joel/fraud-detection-analytics-project">
+    <img
+      src="https://img.shields.io/badge/VIEW_FULL_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View full Fraud Detection Analysis project"
+    />
+  </a>
 </p>
+
+<br><br>
 
 </td>
 
