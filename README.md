@@ -98,7 +98,9 @@
 <td width="50%" align="center" valign="top">
 
   <h3>
-    Fraud Prevention Solution
+    Fraud Detection Analysis
+    
+    
   </h3>
 
   <a href="https://github.com/rivera-joel/fraud-detection-analytics-project">
@@ -134,19 +136,20 @@
   </p>
 
   <p>
-    End-to-end fraud analytics project using SQL, Python, Tableau and
-    machine learning to investigate suspicious transaction patterns,
-    develop risk indicators and support fraud-monitoring decisions.
-  </p>
+  End-to-end fraud prevention solution combining SQL-based transaction
+  investigation, Python risk modelling, machine learning and Tableau
+  dashboards to detect suspicious activity and support fraud-monitoring
+  decisions.
+</p>
 
   <p align="center">
-    <a href="https://github.com/rivera-joel/fraud-detection-analytics-project">
-      <img
-        src="https://img.shields.io/badge/PROJECT-IN_DEVELOPMENT-D1D5DB?style=for-the-badge&logo=github&logoColor=555555"
-        alt="View Fraud Prevention Solution project"
-      />
-    </a>
-  </p>
+  <a href="https://github.com/rivera-joel/fraud-detection-analytics-project">
+    <img
+      src="https://img.shields.io/badge/VIEW_FULL_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View full Fraud Prevention Solution project"
+    />
+  </a>
+</p>
 
 </td>
 
