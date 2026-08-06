@@ -33,8 +33,6 @@ Business Intelligence Solution:<br>
 ETL, Analytics and Forecasting
 </h3>
 
-<br>
-
 <a href="https://github.com/rivera-joel/business-intelligence-project">
 <img
 src="./images/Project-1-image.png"
@@ -65,7 +63,9 @@ alt="DAX"
 src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"
 alt="R"
 />
-&nbsp;
+
+<br><br>
+
 <img
 src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"
 alt="Excel"
@@ -92,9 +92,10 @@ alt="View full Business Intelligence project"
 <td width="50%" align="center" valign="top">
 
 <h3>
-Fraud Detection Analysis
+Fraud Detection Analysis<br>
+&nbsp;
 </h3>
-<br><br>
+
 <a href="https://github.com/rivera-joel/fraud-detection-analytics-project">
 <img
 src="./images/fraud-prevention-solution.png"
@@ -120,7 +121,9 @@ alt="Python"
 src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"
 alt="Tableau"
 />
-&nbsp;
+
+<br><br>
+
 <img
 src="https://img.shields.io/badge/Machine_Learning-5B21B6?style=for-the-badge"
 alt="Machine Learning"
@@ -128,10 +131,9 @@ alt="Machine Learning"
 </p>
 
 <p>
-End-to-end fraud prevention solution combining SQL-based
-transaction investigation, Python risk modelling, machine learning
-and Tableau dashboards to detect suspicious activity and support
-fraud-monitoring decisions.
+End-to-end fraud analytics solution combining SQL investigations,
+Python risk modelling, machine learning and Tableau dashboards
+to detect suspicious activity and support fraud-monitoring decisions.
 </p>
 
 <p align="center">
