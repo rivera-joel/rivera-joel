@@ -132,6 +132,7 @@ Fraud Detection Analysis<br>
   End-to-end fraud analytics solution combining SQL investigations,
   Python risk modelling, machine learning and Tableau dashboards
   to support fraud-monitoring decisions.
+  
 </p>
 
 <p align="center">
