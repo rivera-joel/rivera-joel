@@ -149,6 +149,26 @@ Fraud Detection Analysis<br>
 </td>
 
 </tr>
+<tr>
+<td colspan="2" align="center" valign="middle">
+
+<br>
+
+<h3>🚧 New Project in Development</h3>
+
+<p>
+  REVOLUT
+</p>
+
+<img
+src="https://img.shields.io/badge/IN%20DEVELOPMENT-181717?style=for-the-badge&logo=github&logoColor=white"
+alt="Project in development"
+/>
+
+<br><br>
+
+</td>
+</tr>
 </table>
 
 ---
