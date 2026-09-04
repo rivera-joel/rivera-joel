@@ -157,7 +157,7 @@ Fraud Detection Analysis<br>
 <h3>🚧 New Project in Development</h3>
 
 <p>
-  REVOLUT
+  COMING...
 </p>
 
 <img
