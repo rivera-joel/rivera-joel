@@ -71,7 +71,7 @@ ETL, Analytics and Forecasting
 </p>
 
 <p>
-  End-to-end Business Intelligence solution integrating operational
+  Business Intelligence solution integrating operational
   and external data to analyse sales, logistics, product availability
   and business performance through interactive dashboards.
 </p>
