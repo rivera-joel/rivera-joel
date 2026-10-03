@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Business Intelligence & Data Analyst (Finance)
+  Business Intelligence & Data Analyst
 </h3>
 
 <p align="center">
